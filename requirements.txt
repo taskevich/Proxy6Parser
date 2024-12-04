@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+selenium
+selenium-wire
+selenium-stealth
+blinker==1.7.0
